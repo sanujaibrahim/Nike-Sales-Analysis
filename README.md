@@ -3,7 +3,9 @@
 An interactive **Nike Sales Analysis Dashboard** created using Microsoft
 Power BI to analyze sales, revenue, profit, products, regions, customers,
 gender, and sales channels.
+## 📊 Dashboard Preview
 
+![Nike Sales Dashboard](nike-dashboard.png)
 ## 🚀 Key Features
 
 - 📈 Sales and revenue analysis
